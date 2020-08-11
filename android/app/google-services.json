@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1073398538807",
+    "firebase_url": "https://reactnativefirebase-a9b4c.firebaseio.com",
+    "project_id": "reactnativefirebase-a9b4c",
+    "storage_bucket": "reactnativefirebase-a9b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073398538807:android:94d42e77fd1b8aa00415b2",
+        "android_client_info": {
+          "package_name": "com.newtodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073398538807-v65scvkm205uph7rrme4r0b2669llhv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaBog7HeE_SNo09DYF_YGS1F_Laeo7d1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073398538807-v65scvkm205uph7rrme4r0b2669llhv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
